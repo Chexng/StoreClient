@@ -1,0 +1,12 @@
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\bin\Debug\net6.0\ProductLib.deps.json
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\bin\Debug\net6.0\ProductLib.dll
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\bin\Debug\net6.0\ProductLib.pdb
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.csproj.AssemblyReference.cache
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.AssemblyInfoInputs.cache
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.AssemblyInfo.cs
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.csproj.CoreCompileInputs.cache
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.dll
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\refint\ProductLib.dll
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ProductLib.pdb
+D:\Education\RUPP Y4,A2\OOAD\Assignment\ClothProduct\productlib\obj\Debug\net6.0\ref\ProductLib.dll
